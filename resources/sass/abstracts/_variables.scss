@@ -1,0 +1,42 @@
+/* ------------------------------------------- */
+/* COLOR VARIABLES
+/* ------------------------------------------- */
+
+/* -- COLORS -- */
+
+$color-primary: #3498db;
+$color-primary-light: #51a7e0;
+$color-primary-dark: #2980b9;
+
+$color-secondary-dark: #ff7730; // ERROR IN FORM
+
+/* -- GREY COLORS -- */
+$color-grey-dark: #777; // Color for text
+$color-grey-dark-2: #999; // Darker grey color 1
+$color-grey-dark-3: #333; // Darker Grey Color 2
+
+/* -- B & W -- */
+$color-white: #fff; // Color White
+$color-black: #000; // Color Black
+
+// COLOR USED IN ABOUT SECTION
+$color-grey-light-1: #f7f7f7; // COLOR GREY LIGHT 1
+$color-grey-light-2: #eee; // COLOR GREY LIGHT 2
+
+/* -- BORDER RADIUS  -- */
+$border-radius-default: .3rem; // BORDER RADIUS VARIABLE OF 3px 
+
+/* ------------------------------------------- */
+/* GRID VARIABLES
+/* ------------------------------------------- */
+
+$grid-width: 114rem;    // MAX WIDTH
+$gutter-vertical: 8rem; // VERTICAL SPACING BETWEEN COLUMNS
+$gutter-vertical-small: 6rem;
+$gutter-horizontal: 6rem; // HORIZONTAL SPACING BETWEEN COLUMNS
+
+/* ------------------------------------------- */
+/* FONT
+/* ------------------------------------------- */
+
+$default-font-size: 1.6rem;
